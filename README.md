@@ -8,10 +8,10 @@ I am an experienced career scientist with a background in machine learning. I en
 - 😄 Pronouns: He/Him/His
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gditzler)](https://github.com/ryo-ma/github-profile-trophy)
-
 <!--
 **gditzler/gditzler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gditzler)](https://github.com/ryo-ma/github-profile-trophy)
 
 Here are some ideas to get you started:
 
